@@ -32,5 +32,7 @@ git commit -m "Add image and Python code"
 git push origin main
 ```
 ## Done!
-Your image and Python code are now uploaded to GitHub! 🎉
+Your image and Python code are now uploaded to GitHub!
+
+
 Note: Replace `USERNAME` and `REPOSITORY` with your actual GitHub details. Make sure you have permission to push changes to the repository.
