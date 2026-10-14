@@ -11,22 +11,23 @@ Project Structure:
 REPOSITORY/
 ├── images/
 │   └── sample.png
-├── main.py
 └── README.md
 ```
 Display the Image in README.md:
 ```markdown
+Holding shift to drag the image to the desired location
 ![Sample Image](images/sample.png)
 ```
 ## 3. Add Python Code
 Create a file named `main.py` and add the following code:
 ```python
-print("Hello, GitHub!")
-print("My Python code is added successfully.")
+
+#Type the python code from the main.py
+
 ```
 ## 4. Push Changes to GitHub
 ```bash
-git add .
+git add -A
 git commit -m "Add image and Python code"
 git push origin main
 ```
