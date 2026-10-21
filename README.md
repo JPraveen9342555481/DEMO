@@ -13,6 +13,8 @@ REPOSITORY/
 │   └── sample.png
 └── README.md
 ```
+![alt text](Image/image.png)
+
 Display the Image in README.md:
 ```markdown
 Holding shift to drag the image to the desired location
@@ -20,10 +22,10 @@ Holding shift to drag the image to the desired location
 ```
 ## 3. Add Python Code
 Create a file named `main.py` and add the following code:
+
 ```python
-
-#Type the python code from the main.py
-
+print("Hello, GitHub!")
+print("My Python code is added successfully.")
 ```
 ## 4. Push Changes to GitHub
 ```bash
