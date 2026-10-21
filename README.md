@@ -35,6 +35,6 @@ git push origin main
 ```
 ## Done!
 Your image and Python code are now uploaded to GitHub!
-
+![alt text](Image/image.png)
 
 #### Note: Replace `USERNAME` and `REPOSITORY` with your actual GitHub details. Make sure you have permission to push changes to the repository.
